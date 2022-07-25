@@ -13,8 +13,8 @@ code {
 .container{
   width:50%;
   margin: auto;
-  margin-top: 10%;
-  margin-bottom: 10%;
+  margin-top: 5%;
+  margin-bottom: 5%;
   background-color: lightcoral;
   border-radius: 5px;
   padding: 10px 25px;
@@ -44,7 +44,7 @@ h2{
   align-self: center;
 }
 .sidebar{
-  width:30%;
+  width:20%;
 }
 a{
   color: lightseagreen;
