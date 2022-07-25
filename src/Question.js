@@ -3,7 +3,6 @@ import Data from "./Data";
 import {AiOutlineMinus, AiOutlinePlus} from "react-icons/ai";
 
 const Question = () => {
-    const {id,title,info,html_url} = Data;
     const [question,setQuestion] = useState(Data);
     const [showInfo,setShowInfo] = useState(false);
   return (
